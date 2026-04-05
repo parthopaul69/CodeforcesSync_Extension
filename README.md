@@ -27,7 +27,7 @@
 
 Every synced solution automatically receives a beautifully crafted `README.md` that flawlessly tracks your performance.
 
->  1A. Theatre Square
+>  1A.Theatre Square
 > 
 > | Field | Value |
 > |---|---|
@@ -51,12 +51,12 @@ Every synced solution automatically receives a beautifully crafted `README.md` t
 
 ```text
 your-repo/
-├── 800/                        # Rating-based categorization
-│   ├── 4A.md                   # Scraped problem statement
-│   └── 4A.cpp                  # Accepted source code
+├── 800/                                        # Rating-based categorization
+│   ├── 4A-Theatre Square.cpp                   # Accepted source code 
+│   └── 4A.md                                   # Scraped problem statement
 ├── 1200/
-│   ├── 1100C.md
-│   └── 1100C.java
+│   ├── 1100C-["problem name"].java
+│   └── 1100C.md
 ```
 
 ---
