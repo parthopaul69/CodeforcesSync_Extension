@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚡ CodeforcesSync</h1>
   <img src="icon128.png" width="128" alt="CodeforcesSync Logo" />
-  <p><b>Automated synchronization of your accepted Codeforces submissions directly to GitHub.</b></p>
+  <p><b>Automated synchronization of your accepted Codeforces submissions directly to your GitHub.</b></p>
 </div>
 
 <hr />
