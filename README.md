@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ CodeforcesSync</h1>
-  <img src="icons/icon128.png" width="128" alt="CodeforcesSync Logo" />
+  <img src="icon128.png" width="128" alt="CodeforcesSync Logo" />
   <p><b>Automatically sync every Accepted Codeforces submission — past and future — directly to your GitHub.</b></p>
 </div>
 
